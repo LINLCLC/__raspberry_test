@@ -1,2 +1,2 @@
-# __raspberry_test
+# __raspberry_test__
 raspberry上課用_test
